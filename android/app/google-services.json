@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50043383369",
+    "project_id": "acmevision-fcm",
+    "storage_bucket": "acmevision-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50043383369:android:810881ab663b2e28679998",
+        "android_client_info": {
+          "package_name": "acmevision.example.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50043383369-g8qcebd4oss43s026vu7qqvr2meorpch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDEOxMvXpWqU2Z7KMuCcvdQky9LDWj6Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50043383369-g8qcebd4oss43s026vu7qqvr2meorpch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
